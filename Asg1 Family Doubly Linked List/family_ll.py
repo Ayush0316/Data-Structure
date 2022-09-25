@@ -1,4 +1,4 @@
-# Family linked list
+# Family Doubly linked list
 # In this Family linked list all the grandparents will comes first then their children and their grandchildren
 # Head will be the Grandparents.
 # Then there child will be below them.
@@ -135,7 +135,7 @@ def main():
     print()
     print()
     print("Hello User, Welcome!")
-    print("Here you can create a Family Linked List.")
+    print("Here you can create a Family Doubly Linked List.")
     print()
     print("PRESS Enter TO GET STARTED.")
     input()
